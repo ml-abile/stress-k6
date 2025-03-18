@@ -64,7 +64,7 @@ Para acompanhar o curso completo, acesse a playlist no YouTube:
 
 ## 📝 Licença
 
-Este projeto está sob a licença [MIT](./LICENSE.md).
+Este projeto está sob a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Moira Abile 👋🏽 [Entre em contato!](https://br.linkedin.com/in/moira-luiza-abile-93526816a)
 
